@@ -33,6 +33,7 @@ This C++ program demonstrates classic **sorting and searching algorithms**—inc
 4. ![image-7](https://github.com/user-attachments/assets/b68ec978-df56-4ccc-8e44-2c417dd86244)
 
 
+# LINKED LIST
 
 ## Features
 Insert node at the front
@@ -57,7 +58,7 @@ Class LinkedList: Contains functions for list operations.
 Main Function: Provides a menu-driven loop for user interaction.
 
 
-## LINKED LIST
+## LINKED LIST IMAGE
 
 1. Inserting
 2. ![image-3](https://github.com/user-attachments/assets/bd1b1677-b9ec-4ff5-812b-d4df32a0cbb8)
