@@ -2,19 +2,19 @@
 
 This C++ program demonstrates classic **sorting and searching algorithms**—including **Merge Sort**, **Quick Sort**, and **Binary Search**—in a simple **menu-driven application**. It allows users to input an array, choose a sorting method, and then search for an element using Binary Search.
 
-## 📌 Features
+##  Features
 
-- 📥 User-defined input array
-- 🔀 Sorting Options:
+- User-defined input array
+- Sorting Options:
   - Merge Sort (Divide and Conquer)
   - Quick Sort (Efficient, In-Place Sorting)
-- 🔎 Binary Search (on the sorted array)
-- 🧾 Array Display Before and After Sorting
-- 🧠 Simple CLI-based Menu System
+- Binary Search (on the sorted array)
+- Array Display Before and After Sorting
+- Simple CLI-based Menu System
 
 ---
 
-## 🛠️ Technologies Used
+## 🛠Technologies Used
 
 - C++
 - Standard Template Library (STL): `vector`
